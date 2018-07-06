@@ -10,7 +10,7 @@ git clone https://github.com/brunobatista25/livedobatistao.git
 2- Passo entre na pasta tests
 
 ```
-cd tests
+cd livedobatistao/tests
 ```
 
 3- Passo rode o projeto com:
